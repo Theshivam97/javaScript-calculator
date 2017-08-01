@@ -43,3 +43,8 @@ font-size: 50px;
     font-size: 50px;
 
 }
+@media (min-width: 768px){
+.offset-md-2{
+    margin-left: 0px;
+}
+}
